@@ -1,0 +1,16 @@
+generated: '2026-10-20'
+method: searched
+probe: true
+source: https://www.elvex.com/security
+url: https://www.elvex.com/security
+certifications:
+- SOC 2
+- HIPAA
+evidence:
+- source: https://www.elvex.com/security
+  keywords:
+  - soc 2
+  - soc2
+  - hipaa
+  - trust center
+  - compliance certification

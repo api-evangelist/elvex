@@ -1,0 +1,134 @@
+# elvex
+
+> elvex is a secure enterprise AI platform that connects company data to leading AI models so teams can build agents and flows without code.
+
+elvex is built for enterprise teams that want every employee — not just power users — to build, share, and govern AI work. It is model-agnostic (OpenAI, Anthropic, Google, Mistral, Llama, and custom models), integration-rich, and centrally governed with SOC 2 Type II and HIPAA compliance, SSO, role-based access controls, audit logs, and full usage analytics.
+
+Key differentiators: multi-provider interoperability, a no-code agent and flow builder, a rich datasource and integration ecosystem, shared workspaces with an agent library, usage-based pricing, and "Flows" for reliable multi-step agentic workflows.
+
+## Product
+
+- [Platform overview](https://www.elvex.com/platform): How elvex helps teams build, share, and control AI agents and flows across any model.
+- [Features](https://www.elvex.com/features): Full feature set — agent builder, flows, file uploads, model switching, integrations, and governance.
+- [Build with elvex](https://www.elvex.com/build-with-elvex): Build agents and flows tailored to your team's workflows without code.
+- [Agent library](https://www.elvex.com/agent-library): Pre-built, ready-to-use agents across sales, marketing, support, HR, IT, ops, product, and executive functions.
+- [Integrations](https://www.elvex.com/integrations): Connectors for Salesforce, Slack, Google Workspace, Microsoft 365, Notion, Coda, Linear, databases, and more.
+- [Product tours](https://www.elvex.com/product-tours): Interactive walkthroughs of building agents, switching models, integrations, and access control.
+- [Enterprise AI platform](https://www.elvex.com/enterprise-ai-platform): What an enterprise AI platform is and how elvex delivers it.
+- [Platform: Build](https://www.elvex.com/platform/build): Build agents and flows on top of your company data and tools.
+- [Platform: Share](https://www.elvex.com/platform/share): Share agents, flows, and spaces across teams to scale adoption.
+- [Platform: Control](https://www.elvex.com/platform/control): Centralized governance — access controls, audit logs, usage analytics.
+- [Platform: Guide](https://www.elvex.com/platform/guide): Guided experience that helps non-technical users get value from AI quickly.
+- [Services](https://www.elvex.com/services): 1:1 success partners, tailored training, and dedicated agent planning and scaling support.
+- [Request a demo](https://www.elvex.com/demo): Book a live session where the elvex team builds a custom agent for your workflow.
+- [AI savings calculator](https://www.elvex.com/ai-savings-calculator): Estimate ROI and savings from deploying elvex across your organization.
+
+## Solutions by function
+
+- [Sales](https://www.elvex.com/solutions/function/sales): Account research, CRM updates, outbound personalization, and pipeline analysis.
+- [Marketing](https://www.elvex.com/solutions/function/marketing): Campaign performance, SEO, content variation, and analytics.
+- [Customer support](https://www.elvex.com/solutions/function/customer-support): Ticket triage, documentation, and automated resolutions.
+- [HR](https://www.elvex.com/solutions/function/hr): Policy knowledge bots, employee experience, and recruiting workflows.
+- [IT](https://www.elvex.com/solutions/function/it): IT support, vendor comparison, and technical documentation.
+- [Operations](https://www.elvex.com/solutions/function/operations): OKR orchestration, document analysis, and process automation.
+- [Product](https://www.elvex.com/solutions/function/product): User feedback analysis, release notes, and roadmap support.
+- [Executive](https://www.elvex.com/solutions/function/executive): Board reports, weekly briefings, and strategic decision prep.
+
+## Solutions by industry
+
+- [Financial services](https://www.elvex.com/solutions/industry/financial-services): Compliant, secure AI for FSI teams.
+- [Consulting](https://www.elvex.com/solutions/industry/consulting): AI-native delivery and revenue-stream playbooks for consulting firms.
+- [Media](https://www.elvex.com/solutions/industry/media): Newsroom, sales, and marketing AI for media companies.
+- [Publishing](https://www.elvex.com/solutions/industry/publishing): Editorial and operations AI for publishers.
+- [Healthcare](https://www.elvex.com/solutions/industry/healthcare): HIPAA-compliant AI for healthcare teams.
+- [Insurance](https://www.elvex.com/solutions/industry/insurance): Underwriting, claims, and broker-intelligence workflows.
+- [Legal](https://www.elvex.com/solutions/industry/legal): Document analysis, contract review, and research workflows.
+- [Tech](https://www.elvex.com/solutions/industry/tech): AI for engineering, product, and go-to-market teams.
+
+## Comparisons
+
+- [elvex vs ChatGPT](https://www.elvex.com/elvex-vs-chatgpt): Any-model platform vs OpenAI-only; guided agent building; usage-based pricing.
+- [elvex vs Claude](https://www.elvex.com/elvex-vs-anthropic): Multi-model platform vs Claude-only; broader integrations and governance.
+- [elvex vs Gemini](https://www.elvex.com/elvex-vs-gemini): Model-agnostic platform vs Google ecosystem lock-in.
+- [elvex vs Copilot](https://www.elvex.com/elvex-vs-copilot): Open platform vs Microsoft 365 ecosystem; shared workspaces vs individual use.
+- [elvex vs Glean](https://www.elvex.com/elvex-vs-glean): Agent and flow builder vs enterprise search.
+- [Claude Cowork alternative](https://www.elvex.com/claude-cowork-alternative): Enterprise alternative to Claude Cowork for knowledge workers.
+- [OpenClaw alternative](https://www.elvex.com/openclaw-alternative): Safer, governed alternative to OpenClaw for enterprise teams.
+- [TL;DR](https://www.elvex.com/tldr): One-page elvex overview and competitive summary.
+
+## Case studies
+
+- [Case studies index](https://www.elvex.com/case-studies): All elvex customer stories.
+- [WordPress VIP](https://www.elvex.com/case-studies/wordpress-vip): Reached 58% AI adoption in two months.
+- [Embark](https://www.elvex.com/case-studies/embark): 72% of workforce empowered with AI; 18 highest-ROI agents.
+- [Stacker](https://www.elvex.com/case-studies/stacker): An AI-native blueprint for organization-wide adoption.
+- [Movable Ink](https://www.elvex.com/case-studies/movableink): Thousands of productivity hours gained.
+- [McClatchy](https://www.elvex.com/case-studies/mcclatchy): Operations transformation across a major media company.
+- [1Kosmos](https://www.elvex.com/case-studies/1kosmos): Turning institutional knowledge into scalable AI workflows.
+- [Digital agency](https://www.elvex.com/case-studies/digital-agency-case-study): How a digital agency scaled AI across client work.
+- [Asset management firm](https://www.elvex.com/case-studies/asset-management-case-study): Compliant AI workflows for an asset manager.
+- [MedTech company](https://www.elvex.com/case-studies/medtech-case-study): AI adoption in a regulated MedTech environment.
+
+## Resources
+
+- [Resources hub](https://www.elvex.com/resources): Guides, toolkits, and playbooks on enterprise AI adoption.
+- [Blog](https://www.elvex.com/blog): Insights on enterprise AI strategy, adoption, and transformation.
+- [Glossary](https://www.elvex.com/glossary): Definitions of key AI/ML terms.
+- [FAQs](https://www.elvex.com/faqs): Common questions about elvex, security, pricing, and deployment.
+- [Webinars](https://www.elvex.com/webinars): Live and on-demand sessions on enterprise AI topics.
+- [Podcast](https://www.elvex.com/podcast): Conversations with leaders building AI-native organizations.
+- [Speakers](https://www.elvex.com/speakers): elvex speakers available for events and panels.
+- [Reviews](https://www.elvex.com/reviews): Customer testimonials and third-party reviews.
+- [Master AI prompting guide](https://www.elvex.com/resources/prompting-guide): Enterprise prompting techniques for elvex users.
+- [Enterprise AI platform evaluation checklist](https://www.elvex.com/resources/enterprise-ai-platform-evaluation-checklist): Buyer's framework for selecting an enterprise AI platform.
+- [Enterprise AI context infrastructure guide](https://www.elvex.com/resources/enterprise-ai-context-infrastructure-guide): Why context is the missing layer in enterprise AI.
+- [Measuring AI adoption: enterprise AI fluency](https://www.elvex.com/resources/measuring-ai-adoption-enterprise-ai-fluency): Framework for benchmarking organizational AI maturity.
+- [Why enterprise AI adoption fails](https://www.elvex.com/resources/why-enterprise-ai-adoption-fails): Patterns behind failed enterprise AI rollouts.
+- [90-day financial services AI playbook](https://www.elvex.com/resources/90-day-financial-services-ai-playbook): Implementation roadmap for FSI.
+- [90-day AI playbook for consulting services](https://www.elvex.com/resources/90-day-ai-playbook-for-consulting-services): Implementation roadmap for consulting firms.
+- [Financial services AI maturity assessment](https://www.elvex.com/resources/financial-services-ai-maturity-assessment): Self-assessment for FSI AI readiness.
+- [Security and compliance checklist for AI in financial services](https://www.elvex.com/resources/complete-security-compliance-checklist-for-ai-in-financial-services): Security checklist for evaluating AI vendors in FSI.
+- [ChatGPT Enterprise alternatives guide](https://www.elvex.com/resources/chatgpt-enterprise-alternatives-guide): How to evaluate alternatives to ChatGPT Enterprise.
+- [AI steering committee guide](https://www.elvex.com/resources/ai-steering-committee): How to set up an AI steering committee.
+- [Sales workflows with generative AI](https://www.elvex.com/resources/sales-workflows): Ready-to-use sales agent templates.
+- [Marketing workflows with generative AI](https://www.elvex.com/resources/marketing-workflows): Marketing agent templates.
+- [Customer support workflows](https://www.elvex.com/resources/customer-support-workflows): Support agent templates.
+- [AI-native employees: eight how-tos across all departments](https://www.elvex.com/resources/ai-native-employees-eight-how-tos-across-all-departments): Cross-functional AI workflow examples.
+- [How consulting firms are building new revenue streams with AI](https://www.elvex.com/resources/how-consulting-firms-are-building-new-revenue-streams-with-ai): Revenue playbook for consulting firms.
+- [Embark Consulting's 18 most-used AI agents](https://www.elvex.com/resources/embark-consultings-18-most-used-ai-agents-that-drive-roi): The 18 highest-ROI agents at Embark.
+- [How an accounting firm built 500 AI agents in 90 days](https://www.elvex.com/resources/how-this-accounting-firm-built-500-ai-agents-in-90-days): Case study on rapid agent scale-out.
+- [Guide to building the ultimate CEO weekly briefing agent](https://www.elvex.com/resources/the-guide-to-building-the-ultimate-ceo-weekly-briefing-agent): How to build an executive briefing agent.
+- [Building the ultimate meeting prep assistant for consulting firms](https://www.elvex.com/resources/building-the-ultimate-meeting-prep-assistant-for-consulting-firms): Meeting prep agent playbook.
+- [Free AI agent build session](https://www.elvex.com/resources/free-ai-agent-build-session): Book a free hands-on agent build session with elvex.
+
+## Company
+
+- [About elvex](https://www.elvex.com/about): Mission, founding story, and team.
+- [Careers](https://www.elvex.com/careers): Open roles at elvex.
+- [Contact](https://www.elvex.com/contact): Get in touch with the elvex team.
+- [Partner program](https://www.elvex.com/partner): Become an elvex partner.
+- [Become a partner](https://www.elvex.com/become-a-partner): Apply to join the elvex partner program.
+- [Submit a referral](https://www.elvex.com/submit-referral): Refer a company to elvex.
+- [Privacy policy](https://www.elvex.com/privacy-policy): How elvex handles data and privacy.
+- [Terms of use](https://www.elvex.com/terms-of-use): Terms governing use of elvex.
+- [Terms of sale](https://www.elvex.com/terms-of-sale): Commercial terms for elvex contracts.
+- [Data processing addendum](https://www.elvex.com/data-processing-addendum): DPA for elvex customers.
+
+## Optional
+
+- [Sitemap](https://www.elvex.com/sitemap): Human-readable sitemap of elvex.com.
+- [Categories](https://www.elvex.com/categories): Blog and content categories.
+- [AI for teams](https://www.elvex.com/lp/ai-for-teams): Landing page for AI-for-teams campaigns.
+- [elvex agent preview](https://www.elvex.com/elvex-agent-preview): Try interactive elvex agent previews.
+- [Agent preview: competitor comparison](https://www.elvex.com/elvex-agent-preview/competitor-comparison): Interactive competitor comparison preview.
+- [Agent preview: LLM model selector](https://www.elvex.com/elvex-agent-preview/llms-model-selector): Interactive model selection preview.
+- [Top 7 enterprise AI platforms in 2026](https://www.elvex.com/blog/top-7-enterprise-ai-platforms-in-2026): Comparative roundup of enterprise AI platforms.
+- [Best AI agent builder for enterprise (2026)](https://www.elvex.com/blog/best-ai-agent-builder-enterprise-2026): Buyer's guide to enterprise agent builders.
+- [Best LLM for enterprise](https://www.elvex.com/blog/best-llm-for-enterprise-choosing-right-ai-model): Choosing the right AI model for enterprise use cases.
+- [ChatGPT Enterprise alternatives (2026)](https://www.elvex.com/blog/chatgpt-enterprise-alternatives-2026): Comparison of ChatGPT Enterprise alternatives.
+- [What is elvex?](https://www.elvex.com/blog/what-is-elvex): Short product explainer.
+- [The blank chat box is the problem — elvex 2.0 is the answer](https://www.elvex.com/blog/the-blank-chat-box-is-the-problem-elvex-2-0-is-the-answer): Why generic AI chat falls short for enterprise.
+- [Enterprise AI stack: context, control, execution](https://www.elvex.com/blog/enterprise-ai-stack-context-control-execution): The three layers of an enterprise AI stack.
+- [Flows: multi-step AI workflows](https://www.elvex.com/blog/flows-multistep-ai-workflows): How elvex Flows enable reliable agentic workflows.
+- [Shadow AI and enterprise governance](https://www.elvex.com/blog/shadow-ai-enterprise-governance): The risks of shadow AI and how to govern it.
+- [SOX compliance for AI systems](https://www.elvex.com/blog/sox-compliance-for-ai-systems): Applying SOX controls to enterprise AI.

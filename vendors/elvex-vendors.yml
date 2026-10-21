@@ -1,0 +1,68 @@
+generated: '2026-10-20'
+method: probed
+source: pre-flight dossier (docs platform, portal detections) + CNAME chains and response headers of the hosts apis.yml names
+registry: all/0-working/vendors.yml
+areas_vocabulary:
+- documentation
+- developer-portal
+- api-gateway
+- cdn
+- hosting
+- sdk-generation
+- api-collections
+- status-page
+- support
+- community
+- identity
+- mcp-hosting
+vendors:
+- vendor: postman
+  name: Postman
+  area: api-collections
+  host: www.postman.com
+  evidence: https://www.postman.com/elvex/workspace
+  signal: url:postman.com
+  confidence: high
+  kin_score:
+  - postman_collection
+- vendor: cloudflare
+  name: Cloudflare
+  area: cdn
+  host: www.elvex.com
+  evidence: header:cf-ray
+  signal: header
+  confidence: high
+  kin_score:
+  - https_enforced
+  - hsts
+- vendor: readme
+  name: ReadMe
+  area: developer-portal
+  host: elvex.readme.io
+  evidence: https://elvex.readme.io/reference/generate_text_response_v0_apps__assistant_id__versions__version__text_generate_post
+  signal: url:.readme.io
+  confidence: high
+  kin_score:
+  - openapi_published
+  - changelog_present
+  - llms_txt
+  - api_explorer
+reliance:
+  areas_vendor_served:
+  - api-collections
+  - cdn
+  - developer-portal
+  vendor_count: 3
+  areas_observed: 12
+  share_of_observable_areas: 0.25
+  note: areas where a third party was DETECTED serving this provider; an area absent here was either self-run or not observed, and this script
+    cannot tell those apart
+checked:
+- 'docs-platform: no-docs-host'
+- elvex.readme.io (APIReference)
+- www.elvex.com (Website)
+- www.elvex.com (Documentation)
+- www.elvex.com (DeveloperPortal)
+- www.elvex.com (GettingStarted)
+- www.elvex.com (Support)
+- www.postman.com (Postman)

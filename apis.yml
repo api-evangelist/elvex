@@ -1,23 +1,105 @@
 aid: elvex
+
 name: elvex
-description: 'elvex is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/6866a8f63ad698a595db92cc/6866b2c539c8e6ea08447bc2_B41yc2htQqZ8lJtAO0qPho76ZG0.png
+
+description: Elvex provides an enterprise AI agent platform that enables teams across various functions—such as IT, HR, operations, marketing,
+  and sales—to build, share, and control AI-driven agents. The platform offers a library of pre‑built agents, customizable integrations, security
+  controls, and tools for rapid deployment, allowing organizations to automate workflows, enhance decision‑making, and improve productivity. Elvex’s
+  solutions cater to industries including technology, publishing, insurance, consulting, legal, financial services, healthcare, and media, delivering
+  a comprehensive AI‑powered experience for modern enterprises.
+
 url: https://raw.githubusercontent.com/api-evangelist/elvex/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:g2-catalog
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-20 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-20'
+
 modified: '2026-10-20'
+
 tags:
+- AI
+- Enterprise
+- Platform
+- Automation
+- Integration
 - Company
-apis: []
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: TermsOfService
+  url: https://www.elvex.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.elvex.com/privacy-policy
+- type: Compliance
+  url: https://www.elvex.com/security
+- type: LLMsTxt
+  url: llms/elvex-llms.txt
+- type: WellKnown
+  url: well-known/elvex-well-known.yml
+- type: Hosts
+  url: hosts/elvex-hosts.yml
+- type: Vendors
+  url: vendors/elvex-vendors.yml
+- type: Security
+  url: https://www.elvex.com/security
+- type: Newsroom
+  url: https://www.elvex.com/solutions/industry/media
+- type: APIReference
+  url: https://elvex.readme.io/reference/generate_text_response_v0_apps__assistant_id__versions__version__text_generate_post
+- type: TrustCenter
+  url: security/elvex-trust-center.yml
+- type: VulnerabilityDisclosure
+  url: security/elvex-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/elvex-domain-security.yml
 - type: Website
-  url: https://elvex.com/
+  url: https://www.elvex.com/
+- type: Documentation
+  url: https://www.elvex.com/platform
+- type: DeveloperPortal
+  url: https://www.elvex.com/developers
+- type: GettingStarted
+  url: https://www.elvex.com/platform/guide
+- type: Support
+  url: https://www.elvex.com/resources
+- type: Blog
+  url: https://www.elvex.com/blog
+- type: Pricing
+  url: https://www.elvex.com/pricing
+- type: Postman
+  url: https://www.postman.com/elvex/workspace
+
+apis:
+- name: Elvex API
+  description: Elvex provides an API for its AI agent platform
+  humanURL: https://www.elvex.com/developers
+  aid: elvex:elvex-api
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Developer portal redirects to a JavaScript‑rendered site with no OpenAPI or other machine‑readable contract.
+  evidence:
+  - url: https://www.elvex.com/developers
+    status: 200
+  checked: '2026-10-20'
+x-enrichment:
+  date: '2026-10-20'
+  status: enriched
+  artifacts_added: 13
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
